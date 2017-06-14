@@ -8,8 +8,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url(/fonts/fontawesome-webfont.eot);
-  src: url(/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"), url(/fonts/fontawesome-webfont.woff2) format("woff2"), url(/fonts/fontawesome-webfont.woff) format("woff"), url(/fonts/fontawesome-webfont.ttf) format("truetype"), url(/fonts/fontawesome-webfont.svg#fontawesomeregular) format("svg");
+  src: url(/naturapraxis/fonts/fontawesome-webfont.eot);
+  src: url(/naturapraxis/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"), url(/naturapraxis/fonts/fontawesome-webfont.woff2) format("woff2"), url(/naturapraxis/fonts/fontawesome-webfont.woff) format("woff"), url(/naturapraxis/fonts/fontawesome-webfont.ttf) format("truetype"), url(/naturapraxis/fonts/fontawesome-webfont.svg#fontawesomeregular) format("svg");
   font-weight: normal;
   font-style: normal; }
 .fa {
@@ -7796,7 +7796,7 @@ body {
   height: 50vh;
   padding: 0;
   text-align: center;
-  background: url(/img/59e344e18685318ae17e0435fa83da95.jpg);
+  background: url(/naturapraxis/img/59e344e18685318ae17e0435fa83da95.jpg);
   background-repeat: no-repeat;
   background-position: bottom center;
   background-attachment: fixed;
@@ -7822,13 +7822,13 @@ body {
     background: no-repeat center center scroll;
     background-size: cover; }
 #about .carousel-item-1 {
-    background-image: url(/img/2391d5883cd7a03caea4e7f27e18b882.jpg); }
+    background-image: url(/naturapraxis/img/2391d5883cd7a03caea4e7f27e18b882.jpg); }
 #about .carousel-item-2 {
-    background-image: url(/img/9f77f65a47320cf958ef64b38bb829b8.jpg); }
+    background-image: url(/naturapraxis/img/9f77f65a47320cf958ef64b38bb829b8.jpg); }
 #about .carousel-item-3 {
-    background-image: url(/img/b326b5c64d3f5f9dddbc9cef1ef1b3c2.jpg); }
+    background-image: url(/naturapraxis/img/b326b5c64d3f5f9dddbc9cef1ef1b3c2.jpg); }
 #about .carousel-item-4 {
-    background-image: url(/img/cd872ee8a349f50c2ce14f6ea0ddbe15.jpg); }
+    background-image: url(/naturapraxis/img/cd872ee8a349f50c2ce14f6ea0ddbe15.jpg); }
 #about .carousel-fade .carousel-inner .carousel-item {
     -webkit-transition-property: opacity;
     transition-property: opacity; }
