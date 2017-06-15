@@ -15,15 +15,6 @@ window.sr.reveal('.sr-left', {
   scale: 0.8
 }, 500);
 
-window.sr.reveal('.sr-top', {
-  duration: 1000,
-  distance: '50px',
-  easing: 'ease',
-  origin: 'top',
-  rotate: { x: 0, y: 0, z: 0 },
-  scale: 0.8
-}, 500);
-
 window.sr.reveal('.sr-flip', {
   duration: 1000,
   distance: '0px',
@@ -41,6 +32,15 @@ window.sr.reveal('.timeline-flip', {
   rotate: { x: 0, y: -180, z: 0 },
   scale: 0.8
 }, 500);
+
+window.sr.reveal('.contact-top', {
+  duration: 500,
+  distance: '50px',
+  easing: 'ease',
+  origin: 'top',
+  rotate: { x: 0, y: 0, z: 0 },
+  scale: 0.8
+}, 100);
 
 (function($) {
     "use strict"; // Start of use strict
