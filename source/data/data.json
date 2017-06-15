@@ -2,7 +2,7 @@
   "meta": {
     "author": "Joerg Roth",
     "copyright": "2016 Naturapraxis",
-    "keywords": "Massage, Beratungen"
+    "description": "Praxis für Naturheilkunde an der Weberstrasse in Zürich."
   },
   "about": {
     "name": "Naturapraxis",
@@ -64,7 +64,7 @@
     ]
   },
   "team": {
-    "name": "Ueber mich",
+    "name": "Über mich",
     "items": [
       {
         "name": "Simone Roth-Doggwiler",
