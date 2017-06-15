@@ -7742,14 +7742,11 @@ body {
 #mainNav {
   background-color: #420042; }
 #mainNav .navbar-toggler {
-    font-size: 12px;
     right: 0;
     padding: 13px;
-    text-transform: uppercase;
     color: #420042;
     border: 0;
-    background-color: #ffe0ff;
-    font-family: 'Alegreya', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    background-color: #ffe0ff; }
 #mainNav .container {
     padding: 0; }
 #mainNav .container .navbar-brand {
@@ -7757,6 +7754,13 @@ body {
       font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
 #mainNav .container .navbar-brand:hover, #mainNav .container .navbar-brand:focus, #mainNav .container .navbar-brand:active, #mainNav .container .navbar-brand.active {
         color: #ffadff; }
+#mainNav .container .navbar-brand img {
+        with: auto;
+        -webkit-transition: -webkit-transform 0.6s ease;
+        transition: -webkit-transform 0.6s ease;
+        transition: transform 0.6s ease;
+        transition: transform 0.6s ease, -webkit-transform 0.6s ease;
+        height: 40px; }
 #mainNav .container .navbar-nav .nav-item .nav-link {
       font-size: 90%;
       font-weight: 400;
@@ -7766,6 +7770,14 @@ body {
       font-family: 'Alegreya', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 #mainNav .container .navbar-nav .nav-item .nav-link:hover, #mainNav .container .navbar-nav .nav-item .nav-link.active {
         color: #ffadff; }
+#mainNav.navbar-shrink .navbar-brand img {
+    -webkit-transition: -webkit-transform 0.6s ease;
+    transition: -webkit-transform 0.6s ease;
+    transition: transform 0.6s ease;
+    transition: transform 0.6s ease, -webkit-transform 0.6s ease;
+    -webkit-transform: scale(0.75);
+        -ms-transform: scale(0.75);
+            transform: scale(0.75); }
 @media (min-width: 992px) {
   #mainNav {
     padding: 25px 0;
@@ -7787,9 +7799,7 @@ body {
         padding: 12px 0; } }
 @media (max-width: 991px) {
   #mainNav .navbar-nav .nav-item:first-child {
-    padding: .25em 0 0 0; }
-  #mainNav.navbar-shrink .navbar-brand {
-    float: left; } }
+    padding: .25em 0 0 0; } }
 #masthead {
   display: table;
   width: 100%;

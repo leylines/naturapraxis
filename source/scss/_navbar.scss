@@ -2,14 +2,11 @@
 #mainNav {
   background-color: $color-primary;
   .navbar-toggler {
-    font-size: 12px;
     right: 0;
     padding: 13px;
-    text-transform: uppercase;
     color: $color-primary;
     border: 0;
     background-color: $theme-primary;
-    @include heading-font;
   }
   .container {
     padding: 0;
@@ -21,6 +18,11 @@
       &:active,
       &.active {
         color: darken($bg-primary, 10%);
+      }
+      img {
+        with: auto;
+        transition: transform 0.6s ease;
+        height: 40px;
       }
     }
     .navbar-nav {
@@ -37,6 +39,14 @@
             color: darken($bg-primary, 10%);
           }
         }
+      }
+    }
+  }
+  &.navbar-shrink {
+    .navbar-brand {
+      img {
+        transition: transform 0.6s ease;
+        transform: scale(0.75);
       }
     }
   }
@@ -81,11 +91,6 @@
         &:first-child {
           padding: .25em 0 0 0;
         }
-      }
-    }
-    &.navbar-shrink {
-      .navbar-brand {
-        float: left;
       }
     }
   }
