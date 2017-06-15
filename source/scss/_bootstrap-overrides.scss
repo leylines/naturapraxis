@@ -1,11 +1,11 @@
 // Bootstrap overrides for this template
 .text-primary {
-    color: $theme-primary !important;
+    color: $color-primary !important;
 }
 
 .btn-primary {
     font-weight: 700;
-    @include button-variant(white, $theme-primary, $theme-primary);
+    @include button-variant(white, $bg-primary, $bg-primary);
     @include heading-font;
 }
 
@@ -14,6 +14,6 @@
     font-weight: 700;
     padding: 20px 40px;
     border-radius: 3px;
-    @include button-variant(white, $theme-primary, $theme-primary);
+    @include button-variant(white, $bg-primary, $bg-primary);
     @include heading-font;
 }

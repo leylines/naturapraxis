@@ -19,7 +19,7 @@ p {
 }
 
 a {
-  color: $theme-primary;
+  color: $bg-primary;
   &:hover,
   &:focus,
   &:active,
@@ -118,12 +118,12 @@ section {
 
 // Highlight color customization
 ::-moz-selection {
-    background: $theme-primary;
+    background: $bg-primary;
     text-shadow: none;
 }
 
 ::selection {
-    background: $theme-primary;
+    background: $bg-primary;
     text-shadow: none;
 }
 
@@ -136,5 +136,5 @@ img::-moz-selection {
 }
 
 body {
-    -webkit-tap-highlight-color: $theme-primary;
+    -webkit-tap-highlight-color: $color-primary;
 }

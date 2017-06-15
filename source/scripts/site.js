@@ -1,5 +1,6 @@
 /* html-sites */
 require('../html/index.html');
+require('../html/impressum.html');
 
 /* Styles */
 import styles from '../scss/site.scss';

@@ -18,7 +18,9 @@
   </head>
   <body>
     {{> navigationheader}}
-    {{> header}}
+    {{#ifpage 'index'}}
+      {{> header}}
+    {{/ifpage}}
     {{> body}}
     {{> footer}}
     {{> footerjavascripts}}

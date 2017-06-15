@@ -34,11 +34,12 @@ $enable-grid-classes:       true;
 @import "leitbild.scss";
 @import "angebot.scss";
 @import "services.scss";
-@import "portfolio.scss";
+//@import "portfolio.scss";
 @import "timeline.scss";
 @import "team.scss";
 @import "contact.scss";
 @import "footer.scss";
+@import "impressum.scss";
 // Bootstrap Overrides
 @import "bootstrap-overrides.scss";
 
