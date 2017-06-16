@@ -1,3 +1,14 @@
 #impressum {
   text-align: left;
+
+
+background: rgba(66,0,66,1);
+background: -moz-linear-gradient(top, rgba(66,0,66,1) 0%, rgba(181,103,158,1) 5%, rgba(255,224,255,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(66,0,66,1)), color-stop(5%, rgba(181,103,158,1)), color-stop(100%, rgba(255,224,255,1)));
+background: -webkit-linear-gradient(top, rgba(66,0,66,1) 0%, rgba(181,103,158,1) 5%, rgba(255,224,255,1) 100%);
+background: -o-linear-gradient(top, rgba(66,0,66,1) 0%, rgba(181,103,158,1) 5%, rgba(255,224,255,1) 100%);
+background: -ms-linear-gradient(top, rgba(66,0,66,1) 0%, rgba(181,103,158,1) 5%, rgba(255,224,255,1) 100%);
+background: linear-gradient(to bottom, rgba(66,0,66,1) 0%, rgba(181,103,158,1) 5%, rgba(255,224,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#420042', endColorstr='#ffe0ff', GradientType=0 );
+
 }

@@ -65,10 +65,11 @@
   },
   "team": {
     "name": "Über mich",
+    "content": "Mutter, Hexe...",
     "items": [
       {
         "name": "Simone Roth-Doggwiler",
-        "content": "Naturheilpraktikerin TEN"
+        "title": "Naturheilpraktikerin TEN"
       }
     ]
   },
@@ -91,5 +92,8 @@
         "content": "bla"
       }
     ]
+  },
+  "contact": {
+    "name": "Schreib mir"
   }
 }

@@ -11,9 +11,9 @@
       {{#each data.team.items}}
         <div class="col-sm-4 offset-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle sr-flip" src="../img/team/1.jpg" alt="">
+            <img class="mx-auto rounded-circle sr-flip" src="../img/team/1.png" alt="{{this.name}}">
             <h4>{{this.name}}</h4>
-            <p>{{this.content}}</p>
+            <p>{{this.title}}</p>
           </div>
         </div>
       {{/each}}
@@ -22,7 +22,7 @@
 
     <div class="row">
       <div class="col-lg-8 offset-lg-2 text-center">
-        <p class="large">Mutter..</p>
+        <p class="large">{{data.team.content}}</p>
       </div>
     </div>
 

@@ -8111,7 +8111,12 @@ body {
   width: 100%;
   height: 400px; }
 #impressum {
-  text-align: left; }
+  text-align: left;
+  background: #420042;
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, #420042), color-stop(5%, #b5679e), color-stop(100%, #ffe0ff));
+  background: -webkit-gradient(linear, left top, left bottom, from(#420042), color-stop(5%, #b5679e), to(#ffe0ff));
+  background: linear-gradient(to bottom, #420042 0%, #b5679e 5%, #ffe0ff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#420042', endColorstr='#ffe0ff', GradientType=0 ); }
 .text-primary {
   color: #420042 !important; }
 .btn-primary {
