@@ -1,6 +1,11 @@
 /* html-sites */
-require('../html/index.html');
-require('../html/impressum.html');
+var context = require.context('../html', true, /\.(html)$/);
+var files={};
+
+context.keys().forEach((filename)=>{
+  console.log(filename);
+  files[filename] = context(filename);
+});
 
 /* Styles */
 import styles from '../scss/site.scss';
