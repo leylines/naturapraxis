@@ -19,4 +19,16 @@
   h1,h2,h3,h4,h5,h6,p {
     color: $color-lighter;
   }
+  a {
+    color: $color-lighter;
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      color: $color-light;
+    }
+    &.visited {
+      color: $color;
+    }
+  }
 }

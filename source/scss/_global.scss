@@ -24,10 +24,10 @@ a {
   &:focus,
   &:active,
   &.active {
-    color: darken($color-lighter, 10%);
+    color: $color-dark;
   }
   &.visited {
-    color: darken($color-lighter, 30%);
+    color: $color;
   }
 }
 

@@ -7,13 +7,6 @@
     font-weight: 700;
     @include button-variant($white, $color-darker, $color-darker);
     @include heading-font;
-    &:hover,
-    &:focus,
-    &:active,
-    &.active {
-      @include button-variant($color-darker, $white, $color-darker);
-    }
-
 }
 
 .btn-xl {
@@ -22,11 +15,4 @@
     padding: 20px 40px;
     border-radius: 3px;
     @include button-variant($white, $color-darker, $color-darker);
-    @include heading-font;
-    &:hover,
-    &:focus,
-    &:active,
-    &.active {
-      @include button-variant($color-darker, $white, $color-darker);
-    }
 }

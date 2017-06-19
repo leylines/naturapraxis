@@ -1,5 +1,8 @@
 #impressum {
   text-align: left;
   @include linear-gradient(to bottom, $color-darker 0%, $color-light 5%, $color-lighter 100%);
+  section {
+    padding: 50px 0px 0px 0px;
+  }
 }
 
