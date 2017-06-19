@@ -1,11 +1,10 @@
 /* html-sites */
-var context = require.context('../html', true, /\.(html)$/);
-var files={};
+//var context = require.context('../html', true, /\.(html)$/);
+//var htmlfiles={};
 
-context.keys().forEach((filename)=>{
-  console.log(filename);
-  files[filename] = context(filename);
-});
+//context.keys().forEach((filename)=>{
+//  htmlfiles[filename] = context(filename);
+//});
 
 /* Styles */
 import styles from '../scss/site.scss';
