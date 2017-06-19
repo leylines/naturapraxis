@@ -1,23 +1,23 @@
 // Styling for the navbar
 #mainNav {
-  background-color: $color-primary;
+  background-color: $color-darker;
   .navbar-toggler {
     right: 0;
     padding: 13px;
-    color: $color-primary;
+    color: $color-darker;
     border: 0;
-    background-color: $bg-primary;
+    background-color: $color-lighter;
   }
   .container {
     padding: 0;
     .navbar-brand {
-      color: $bg-primary;
+      color: $color-lighter;
       @include script-font;
       &:hover,
       &:focus,
       &:active,
       &.active {
-        color: darken($bg-primary, 10%);
+        color: $color-light;
       }
       img {
         with: auto;
@@ -32,11 +32,11 @@
           font-weight: 400;
           padding: .75em 0;
           letter-spacing: 1px;
-          color: $bg-primary;
+          color: $color-lighter;
           @include heading-font;
           &:hover,
           &.active {
-            color: darken($bg-primary, 10%);
+            color: $color-light;
           }
         }
       }
@@ -74,7 +74,7 @@
       }
     }
     &.navbar-shrink {
-      background-color: $color-primary;
+      background-color: $color-darker;
       padding: 0;
       .navbar-brand {
         font-size: 1.25em;

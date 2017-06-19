@@ -4,12 +4,9 @@
 
 $theme-danger:       #e74c3c;
 
-$purple-darker:      rgb(66,0,66) !default;
-$purple-dark:        lighten($purple-darker, 10.0%) !default;
-$purple:             lighten($purple-darker, 50.0%) !default;
-$purple-light:       lighten($purple-darker, 70.0%) !default;
-$purple-lighter:     lighten($purple-darker, 80.0%) !default;
-
-$bg-primary:         $purple-lighter;
-$color-primary:      $purple-darker;
+$color-darker:      rgb(66,0,66) !default;
+$color-dark:        lighten($color-darker, 10.0%) !default;
+$color:             lighten($color-darker, 50.0%) !default;
+$color-light:       lighten($color-darker, 70.0%) !default;
+$color-lighter:     lighten($color-darker, 80.0%) !default;
 

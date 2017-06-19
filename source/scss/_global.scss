@@ -19,15 +19,15 @@ p {
 }
 
 a {
-  color: $bg-primary;
+  color: $color-darker;
   &:hover,
   &:focus,
   &:active,
   &.active {
-    color: darken($bg-primary, 10%);
+    color: darken($color-lighter, 10%);
   }
   &.visited {
-    color: darken($bg-primary, 30%);
+    color: darken($color-lighter, 30%);
   }
 }
 
@@ -41,40 +41,6 @@ h6 {
   @include heading-font;
 }
 
-.primary-button {
-  color: white;
-  &:hover,
-  &:focus,
-  &:active,
-  &.active {
-    border-color: $color-primary;
-    background-color: white;
-    color: $color-primary;
-  }
-  &.visited {
-    color: darken($bg-primary, 30%);
-  }
-  border-color: $color-primary;
-  background-color: $color-primary;
-}
-
-.inverse-button {
-  color: $color-primary;
-  &:hover,
-  &:focus,
-  &:active,
-  &.active {
-    border-color: $color-primary;
-    background-color: $color-primary;
-    color: white;
-  }
-  &.visited {
-    color: darken($bg-primary, 30%);
-  }
-  border-color: $color-primary;
-  background-color: white;
-}
-
 section {
   padding: 50px 0;
   h2.section-heading {
@@ -86,7 +52,7 @@ section {
     font-size: 25px;
     font-weight: 500;
     margin-top: 25px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
     text-transform: none;
   }
 }
@@ -99,7 +65,7 @@ section {
   position: relative;
   float: left;
   &:after {
-    @include linear-gradient(to right, $purple-dark 0%, $purple 50%, $purple-light 100%);
+    @include linear-gradient(to right, $color-dark 0%, $color 50%, $color-light 100%);
     content:"";
     display: block;
     height: 3px;
@@ -118,12 +84,12 @@ section {
 
 // Highlight color customization
 ::-moz-selection {
-    background: $bg-primary;
+    background: $color-lighter;
     text-shadow: none;
 }
 
 ::selection {
-    background: $bg-primary;
+    background: $color-lighter;
     text-shadow: none;
 }
 
@@ -136,5 +102,5 @@ img::-moz-selection {
 }
 
 body {
-    -webkit-tap-highlight-color: $color-primary;
+    -webkit-tap-highlight-color: $color-darker;
 }

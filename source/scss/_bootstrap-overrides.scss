@@ -1,12 +1,19 @@
 // Bootstrap overrides for this template
 .text-primary {
-    color: $color-primary !important;
+    color: $color-darker !important;
 }
 
 .btn-primary {
     font-weight: 700;
-    @include button-variant(white, $bg-primary, $bg-primary);
+    @include button-variant($white, $color-darker, $color-darker);
     @include heading-font;
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      @include button-variant($color-darker, $white, $color-darker);
+    }
+
 }
 
 .btn-xl {
@@ -14,6 +21,12 @@
     font-weight: 700;
     padding: 20px 40px;
     border-radius: 3px;
-    @include button-variant(white, $bg-primary, $bg-primary);
+    @include button-variant($white, $color-darker, $color-darker);
     @include heading-font;
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      @include button-variant($color-darker, $white, $color-darker);
+    }
 }
