@@ -55,15 +55,11 @@
 @media(min-width:992px) {
   #mainNav {
     padding: 25px 0;
-    -webkit-transition: padding .3s;
-    -moz-transition: padding .3s;
     transition: padding .3s;
     border: none;
     background-color: transparent;
     .navbar-brand {
       font-size: 1.75em;
-      -webkit-transition: all .3s;
-      -moz-transition: all .3s;
       transition: all .3s;
     }
     .navbar-nav {
