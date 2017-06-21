@@ -12,29 +12,25 @@
 
     <script type="application/ld+json">
      {
-      "@context": "http://schema.org/",
+      "@context": "http://schema.org",
       "@type": "Organization",
-      "url": "{{meta.url}}",
+      "address": {
+        "@type": "PostalAddress",
+        "postalCode": "8004",
+        "streetAddress": "Weberstrasse 10",
+        "addressLocality": "Zürich",
+        "addressRegion": "ZH",
+        "addressCountry": "Schweiz"
+      },
+      "email": "simone(at)naturapraxis.ch",
       "name": "{{meta.name}}",
+      "telephone": "41-76-771-75-15",
       "description": "{{description}}",
-      "logo": "{{meta.url}}/favicons/firefox_app_512x512.png"
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+41-76-771-75-15",
-      }
-      "location": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Weberstrasse 10"
-          "postalCode": "8004"
-          "addressLocality": "Zürich",
-          "addressRegion": "ZH",
-          "addressCountry": "Schweiz"
-        }
-      }
+      "logo": "{{meta.url}}/favicons/firefox_app_512x512.png",
+      "url": "{{meta.url}}"
      }
     </script>
+
     <meta itemprop="name" content="{{title}}">
     <meta itemprop="description" content="{{description}}">
     <meta itemprop="image" content="{{meta.url}}/favicons/firefox_app_512x512.png">
