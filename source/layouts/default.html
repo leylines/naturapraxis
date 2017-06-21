@@ -6,9 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="{{description}}">
-    {{#each data.meta}}
+    {{#each meta.meta}}
     <meta name="{{@key}}" content="{{this}}">
     {{/each}}
+
+    <meta itemprop="name" content="{{title}}">
+    <meta itemprop="description" content="{{description}}">
+    <meta itemprop="image" content="{{meta.url}}/favicons/firefox_app_512x512.png">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{title}}">
+    <meta name="twitter:description" content="{{description}}">
+    <meta name="twitter:image:src" content="{{meta.url}}/favicons/firefox_app_512x512.png">
+
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{meta.url}}" />
+    <meta property="og:image" content="{{meta.url}}/favicons/firefox_app_512x512.png" />
+    <meta property="og:description" content="{{description}}" />
+    <meta property="og:site_name" content="{{meta.name}}" />
+    <meta property="fb:admins" content="100009565237943" /> 
    
     <title>{{title}}</title>
 
