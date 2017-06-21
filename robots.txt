@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /source
+Sitemap: https://leylines.github.io/naturapraxis/sitemap.xml
+Host: https://leylines.github.io
