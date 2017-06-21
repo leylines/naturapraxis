@@ -10,8 +10,31 @@
     <meta name="{{@key}}" content="{{this}}">
     {{/each}}
 
-    <html itemscope itemtype="http://schema.org/Article"> 
-
+    <script type="application/ld+json">
+     {
+      "@context": "http://schema.org/",
+      "@type": "Organization",
+      "url": "{{meta.url}}",
+      "name": "{{meta.name}}",
+      "description": "{{description}}",
+      "logo": "{{meta.url}}/favicons/firefox_app_512x512.png"
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+41-76-771-75-15",
+      }
+      "location": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Weberstrasse 10"
+          "postalCode": "8004"
+          "addressLocality": "Zürich",
+          "addressRegion": "ZH",
+          "addressCountry": "Schweiz"
+        }
+      }
+     }
+    </script>
     <meta itemprop="name" content="{{title}}">
     <meta itemprop="description" content="{{description}}">
     <meta itemprop="image" content="{{meta.url}}/favicons/firefox_app_512x512.png">
