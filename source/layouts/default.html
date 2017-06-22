@@ -16,23 +16,26 @@
       "@type": "Organization",
       "address": {
         "@type": "PostalAddress",
-        "postalCode": "8004",
-        "streetAddress": "Weberstrasse 10",
-        "addressLocality": "Zürich",
-        "addressRegion": "ZH",
-        "addressCountry": "Schweiz"
+        "postalCode": "{{meta.address.postalCode}}",
+        "streetAddress": "{{meta.address.streetAddress}}",
+        "addressLocality": "{{meta.address.addressLocality}}",
+        "addressRegion": "{{meta.address.addressRegion}}",
+        "addressCountry": "{{meta.address.addressCountry}}"
       },
-      "email": "simone(at)naturapraxis.ch",
+      "email": "{{meta.email}}",
       "name": "{{meta.name}}",
-      "telephone": "41-76-771-75-15",
+      "telephone": "{{meta.telephone}}",
       "description": "{{description}}",
       "logo": "{{meta.url}}/favicons/firefox_app_512x512.png",
       "url": "{{meta.url}}",
       "sameAs": [
-        "https://www.facebook.com/profile.php?id=100009565237943",
-        "https://www.facebook.com/naturapraxis.ch/",
-        "http://www.simoneroth.ch",
-        "http://www.trancehealing.jimdo.com"
+       {{#each meta.sameAs}}
+        {{#ifCond (inc @index) '<' ../meta.sameAs.length}}
+        "{{this}}",
+        {{ else }}
+        "{{this}}"
+        {{/ifCond}}
+       {{/each}}
       ]
      }
     </script>

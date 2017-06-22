@@ -1,8 +1,23 @@
 {
   "url": "https://leylines.github.io/naturapraxis",
   "name": "Naturapraxis Simone Roth-Doggwiler",
+  "email": "simone(at)naturapraxis.ch",
+  "telephone": "41-76-771-75-15",
   "meta": {
     "author": "Joerg Roth",
     "copyright": "2016 Naturapraxis"
-  }
+  },
+  "address": {
+    "postalCode": "8004",
+    "streetAddress": "Weberstrasse 10",
+    "addressLocality": "Zürich",
+    "addressRegion": "ZH",
+    "addressCountry": "Schweiz"
+  },
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=100009565237943",
+    "https://www.facebook.com/naturapraxis.ch/",
+    "http://www.simoneroth.ch",
+    "http://www.trancehealing.jimdo.com"
+  ]
 }
