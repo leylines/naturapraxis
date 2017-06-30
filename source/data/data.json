@@ -25,11 +25,11 @@
     "items": [
       {
         "name": "Heilung",
-        "content": "Der Begriff Heilung bezeichnet den Prozess der Herstellung oder Wiederherstellung der körperlichen und seelischen Integrität aus einem Leiden oder einer Krankheit, oder die Überwindung einer Versehrtheit oder Verletzung durch Genesung." 
+        "content": "Der Begriff Heilung bezeichnet den Prozess der Herstellung oder Wiederherstellung der körperlichen und seelischen Integrität aus einem Leiden oder einer Krankheit, oder die Überwindung einer Versehrtheit oder Verletzung durch Genesung. Der Begriff Heilung ist nur der Schulmedizin vorbehalten und es ist gesetzlich untersagt Ihnen heilversprochen zu machen."
       },
       {
         "name": "Gesundheit",
-        "content": "Gesundheit wird allgemein als ein Zustand des körperlichen und/oder geistigen Wohlergehens aufgefasst. Gesundheit hat mit dem Erleben eine subjektive Seite, und erscheint auch objektiv feststellbar über das Nicht-Vorliegen von Krankheit bei Fehlen einer medizinischen Diagnose."
+        "content": "Gesundheit wird allgemein als ein Zustand des körperlichen und/oder geistigen Wohlergehens aufgefasst. Gesundheit hat mit dem Erleben eine subjektive Seite, und erscheint auch objektiv feststellbar über das Nicht-Vorliegen von Krankheit bei Fehlen einer medizinischen Diagnose. Ich bin bestrebt, Sie auf Ihrem gesunden Weg nach naturheilkundlichen Aspekten zu begleiten."
       },
       {
         "name": "Transformation",
@@ -37,7 +37,7 @@
       },
       {
         "name": "Transmutation",
-        "content": "Als Transmutation wird balalalalslsls:w."
+        "content": "Transmutation (lateinisch transmutatio: Verwandlung) ist die Umwandlung eines chemischen Elements in ein anderes. Die Alchemisten bezeichneten damit die angestrebte Verwandlung unedler Metalle in Gold. Durch die zahlreichen Ausbildungen im energetischen (Trance Healing, Higherself Healing, Reiki), alchemistischen, naturheilkundlichen Bereich, hat Simone Roth-Doggwiler eine eigene Technik entwickelt, die sich, wie oben geschrieben = unedle Metalle in Gold zu verwandeln definieren lässt. Was soviel bedeutet, dass Ihre innerste Kraft angeregt wird zum Leuchten zu kommen, damit Sie Ihr Leben selbstbestimmt & glücklich leben können."
       }
     ]
   },
@@ -45,26 +45,80 @@
     "name": "Angebot",
     "items": [
       {
-        "name": "Trans Healing",
-        "content": "Trance Healing hat seinen Ursprung im englischen Spiritualismus und wurde 1848 durch die Geschwister Fox in den USA ins leben gerufen wurde. Bei dieser Form der Behandlung geht es darum, dass sich die Therapeutin/Medium in die innere Stille begibt und sich mit der geistigen Welt/Gott/spirituelle Intelligenz (oder wie man es nennen mag) verbindet, sich als Kanal zur Verfügung stellt, um einen seelischen und körperlichen Transformations-Prozess anzustoßen."
-      },
-      {
         "name": "Ernährung / Diätetik",
         "content": "Die meisten Stoffwechselentgleisungen haben ihren Ursprung in einer ungeeigneten Ernährung. Wenn Sie Ihren Körper und Geist nicht nur gesund halten möchten sondern auch noch Höchstleistungen erwarten, dann gehört eine angepasste Ernährung als Grundvoraussetzung dazu. Eine Ernährungsberatung bietet Unterstützung bei einer Änderung der individuellen Essgewohnheiten und kann sowohl zur Vorbeugung als auch zur Behandlung von ernährungsbedingten Krankheiten durchgeführt werden.",
         "link": {
           "name": "www.nhk.ch",
           "dest": "http://www.nhk.ch"
         }
+      },
+      {
+        "name": "Klassische Massage",
+        "content": "Unter dem Begriff „Massage“ versteht man eine mechanische, meist manuelle, Beeinflussung der Haut, des tieferliegenden Gewebes und der Muskulatur. Die klassische Massage ist die am häufigsten angewendete Form der Massage und wird überwiegend zur Vorbeugung und Behandlung von Erkrankungen des Bewegungsapparats eingesetzt.",
+        "link": {
+          "name": "www.emr.ch",
+          "dest": "http://www.emr.ch/emr-public/methode.las?c=102"
+        }
+      },
+      {
+        "name": "Triggerpunkt Massage",
+        "content": "Die Triggerpunkt Massage ist eine besondere Form der Massage. Die Schmerzpunkte, so genannte Triggerpunkte sind verhärtete Muskelfasern bei denen man davon ausgeht, dass eine Entzündung stattgefunden hat. Verletzungen oder akute chronische Überbeanspruchung, mechanische Reize und Fehlhaltungen führen zu diesem Geschehen. Durch diese Therapieform kann eine Linderung, Aktivierung der Selbstheilungskräfte angeregt werden."
+      },
+      {
+        "name": "Schröpfen",
+        "content": "Mittels Unterdruck wird ein Schröpfglas auf bestimmte Hautareale gesetzt. Die Behandlung kann am Ort der Erkrankung, Reflexzonen oder in den Dermatomen (Hautbezirke die über Nervenbahnen mit den inneren Organen verbunden sind) erfolgen. Das Ziel des Schröpfens ist die Selbstheilungskräfte des Organismus zu stärken oder wieder anzuregen. Diese Therapieform wird in der Naturapraxis kombiniert mit einer klassischen Massage oder anderen Körpertherapie angewendet."
+      },
+      {
+        "name": "Fussreflexzonen Massage",
+        "content": "Reflexzonentherapie ist eine komplementär-therapeutische Methode, welche die Selbstheilungskräfte des Menschen und seine Grundregulationssysteme stärkt und ausgleicht. Grundlage der Reflexzonentherapie ist die Vorstellung, dass sich der Körper in seiner Gesamtheit jeweils in einzelnen Körperteilen spiegelt. Reflexzonen finden sich an Füssen, Händen, Kopf, Ohren und am ganzen Körper. Die Behandlung der Reflexzonen am Fuss erfreut sich besonderer Beliebtheit, denn ihr wird eine ganzheitliche Wirkung nachgesagt.",
+        "link": {
+          "name": "www.fussreflexzonenmassage.ch",
+          "dest": "http://www.fussreflexzonenmassage.ch/de/reflexzone/methode.html"
+        }
+      },
+      {
+        "name": "Manuelle Lymphdrainage",
+        "content": "Die manuelle Lymphdrainage ist eine Therapieform der physikalischen Anwendungen. Ihre Anwendungsgebiete sind breit gefächert. Sie dient vor allem als Ödem- und Entstauungstherapie ödematöser Körperregionen, wie Körperstamm und Extremitäten (Arme und Beine), welche nach Traumata oder Operationen entstehen können. Besonders häufig wird diese Therapie nach einer Tumorbehandlung bzw Lymphknotenentfernung verschrieben.",
+        "link": {
+          "name": "sfml.ch",
+          "dest": "http://sfml.ch/infos-ueber-lymphdrainage/buch-tipps/index.html"
+        }
+      },
+      {
+        "name": "Pflanzenheilkunde / Phytotherapie",
+        "content": "Die Pflanzenheilkunde (Phytotherapie) ist die Lehre der Verwendung von Heilpflanzen als Arzneimittel. In der Pflanzenheilkunde werden die geeigneten Pflanzen für ihre Gesundheit individuell zusammengestellt. Nach dem Prinzip der Ganzheit für ihr System, es werden selten nur einzelne Pflanzen verschrieben, da sie in einem Blumenstrauss ihre Wirkung besser entfalten können. Durch meine zusätzlichen Ausbildungen in Spagyrik, Homöopathie & Naturheilkunde empfehle ich zu einer Körpertherapie meistens einen Pflanzenblumenstrauss. Die Phytotherapie kombiniert mit der Naturheilkunde TEN distanziert sich eine natürliche Schulmedizin zu sein. Da immer die Körper, Seele & Geist miteinbezogen werden zur Gesunderhaltung des Menschen.",
+        "link": {
+          "name": "https://de.wikipedia.org",
+          "dest": "https://de.wikipedia.org/wiki/Pflanzenheilkunde"
+        }
+      },
+      {
+        "name": "Trance Healing",
+        "content": "Trance Healing hat seinen Ursprung im englischen Spiritualismus und wurde 1848 durch die Geschwister Fox in den USA ins leben gerufen wurde. Bei dieser Form der Behandlung geht es darum, dass sich die Therapeutin/Medium in die innere Stille begibt und sich mit der geistigen Welt/Gott/spirituelle Intelligenz (oder wie man es nennen mag) verbindet, sich als Kanal zur Verfügung stellt, um einen seelischen und körperlichen Transformations-Prozess anzustoßen."
+      },
+      {
+        "name": "Reiki",
+        "content": "Reiki wird „ree-ki“ ausgesprochen (Japanisch „rei“ = unerschöpfliche Energie des Universums, „ki“ = persönliche Lebensenergie) und ist eine japanische Form der energetischen Heilung durch Handauflegen. Der Reikimeister oder -lehrer überträgt dabei die universelle Lebensenergie – die ebenfalls Reiki heisst – durch Berührung auf den Patienten.",
+        "link": {
+          "name": "https://www.emr.ch",
+          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+        }
+      },
+      {
+        "name": "Higherself Healing",
+        "content": "Higher Self ist englisch und bedeutet das Höhere Selbst von einer Person. Es ist die Verbindung in uns mit der Göttlichkeit, Unendlichkeit mit der Verbindung mit unserem Urquelle. Alle sind daran angebunden, bewusst oder unbewusst. Das Higher Self Healing bietet Ihnen die Möglichkeit, die Hintergründe einer Erkrankung zu erfassen und bewusst daran zu Arbeiten ins Gesunde Leben zurückzukommen. Mit all ihren Möglichkeiten und positiven Geschehnissen."
       }
     ]
   },
   "team": {
     "name": "Über mich",
-    "content": "Mutter, Hexe...",
+    "titel": "Sie arbeitet und lebt mit ihrer Familie in der Stadt Zürich. In Ihrer Freizeit liebt Simone Zeit in ihrem Garten zu verbringen & die Natur in all ihren Facetten zu beobachten.",
+    "content": "Ich suchte immer nach dem grösseren Sinn vom Ganzen und hinterfragte alles. Mein Ziel: resourcenorientiert am Körper/Geist & Seele der Leute zu arbeiten. Ich liebe es, den Menschen ihr Bestes zu geben, damit Sie ihren Weg selbstbestimmt gehen können.",
     "items": [
       {
         "name": "Simone Roth-Doggwiler",
-        "title": "Naturheilpraktikerin TEN"
+        "title": "Naturheilpraktikerin TEN",
+        "birthday": "05.11.1979"
       }
     ]
   },

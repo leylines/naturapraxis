@@ -11,7 +11,9 @@ body {
   text-align: center;
   width: 100%;
   height: 100%;
-
+  -webkit-tap-highlight-color: $color-darker;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 p {
@@ -92,6 +94,3 @@ img::selection {
     background: transparent;
 }
 
-body {
-    -webkit-tap-highlight-color: $color-darker;
-}
