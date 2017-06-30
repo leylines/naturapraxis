@@ -7,51 +7,27 @@
         "content": "Die Praxis liegt zentral in Zürich an der Weberstrasse."
       },
       {
-        "name": "Beratung",
-        "content": "Es ist mir ein Anliegen, dass es ein miteinander Arbeiten an Ihrer Gesundheit ist, resourcen & lösungsorientiert."
-      },
-      {
-        "name": "Wohlfühlen",
-        "content": "Zusammen bestimmen wir den Weg um ihr gewünschtes Ziel zu erreichen."
-      },
-      {
         "name": "Behandlung",
         "content": "Aus meinem breitem Wissen, aus der Schul- / Alternativmedizin und naturheilkundlichen Bereichen ist es mir eine Freude Sie zu begleiten, damit Ihr Körper, Geist und Seele wieder harmonieren."
+      },
+      {
+        "name": "Beratung",
+        "content": "Es ist mir ein Anliegen, dass es ein miteinander Arbeiten an Ihrer Gesundheit ist, resourcen & lösungsorientiert."
       }
     ]
   },
   "leitbild": {
-    "name": "Leitbild",
+    "name": "Kompetenzen",
     "items": [
       {
-        "name": "Heilung",
-        "content": "Der Begriff Heilung bezeichnet den Prozess der Herstellung oder Wiederherstellung der körperlichen und seelischen Integrität aus einem Leiden oder einer Krankheit, oder die Überwindung einer Versehrtheit oder Verletzung durch Genesung. Der Begriff Heilung ist nur der Schulmedizin vorbehalten und es ist gesetzlich untersagt Ihnen heilversprochen zu machen."
-      },
-      {
-        "name": "Gesundheit",
-        "content": "Gesundheit wird allgemein als ein Zustand des körperlichen und/oder geistigen Wohlergehens aufgefasst. Gesundheit hat mit dem Erleben eine subjektive Seite, und erscheint auch objektiv feststellbar über das Nicht-Vorliegen von Krankheit bei Fehlen einer medizinischen Diagnose. Ich bin bestrebt, Sie auf Ihrem gesunden Weg nach naturheilkundlichen Aspekten zu begleiten."
-      },
-      {
-        "name": "Transformation",
-        "content": "Als Transformation wird in der Molekularbiologie die nicht-virale Übertragung von freier DNA in kompetente Bakterienzellen sowie in Pilze, Algen, Hefen und Pflanzen bezeichnet."
-      },
-      {
-        "name": "Transmutation",
-        "content": "Transmutation (lateinisch transmutatio: Verwandlung) ist die Umwandlung eines chemischen Elements in ein anderes. Die Alchemisten bezeichneten damit die angestrebte Verwandlung unedler Metalle in Gold. Durch die zahlreichen Ausbildungen im energetischen (Trance Healing, Higherself Healing, Reiki), alchemistischen, naturheilkundlichen Bereich, hat Simone Roth-Doggwiler eine eigene Technik entwickelt, die sich, wie oben geschrieben = unedle Metalle in Gold zu verwandeln definieren lässt. Was soviel bedeutet, dass Ihre innerste Kraft angeregt wird zum Leuchten zu kommen, damit Sie Ihr Leben selbstbestimmt & glücklich leben können."
+        "name": "Leitbild",
+        "content": "Menschen zu begleiten, zu behandeln und sie in Ihrem Gesundheitsweg zu stärken. Zusammen wird ein Ziel definiert und mit Hilfe der Naturheilkunde therapiert. Sei es mit manuell energetischen Körpertherapien, Gesprächen, Pflanzenheilkunde, Ernährung, Bewegung oder andere Methoden was Ihren Körper, Geist und Seele wieder in Einheit bringen. Ich freue mich, Sie ein Stück ihres Weges zu begleiten"
       }
     ]
   },
   "angebot": {
     "name": "Angebot",
     "items": [
-      {
-        "name": "Ernährung / Diätetik",
-        "content": "Die meisten Stoffwechselentgleisungen haben ihren Ursprung in einer ungeeigneten Ernährung. Wenn Sie Ihren Körper und Geist nicht nur gesund halten möchten sondern auch noch Höchstleistungen erwarten, dann gehört eine angepasste Ernährung als Grundvoraussetzung dazu. Eine Ernährungsberatung bietet Unterstützung bei einer Änderung der individuellen Essgewohnheiten und kann sowohl zur Vorbeugung als auch zur Behandlung von ernährungsbedingten Krankheiten durchgeführt werden.",
-        "link": {
-          "name": "www.nhk.ch",
-          "dest": "http://www.nhk.ch"
-        }
-      },
       {
         "name": "Klassische Massage",
         "content": "Unter dem Begriff „Massage“ versteht man eine mechanische, meist manuelle, Beeinflussung der Haut, des tieferliegenden Gewebes und der Muskulatur. Die klassische Massage ist die am häufigsten angewendete Form der Massage und wird überwiegend zur Vorbeugung und Behandlung von Erkrankungen des Bewegungsapparats eingesetzt.",
@@ -93,8 +69,12 @@
         }
       },
       {
-        "name": "Trance Healing",
-        "content": "Trance Healing hat seinen Ursprung im englischen Spiritualismus und wurde 1848 durch die Geschwister Fox in den USA ins leben gerufen wurde. Bei dieser Form der Behandlung geht es darum, dass sich die Therapeutin/Medium in die innere Stille begibt und sich mit der geistigen Welt/Gott/spirituelle Intelligenz (oder wie man es nennen mag) verbindet, sich als Kanal zur Verfügung stellt, um einen seelischen und körperlichen Transformations-Prozess anzustoßen."
+        "name": "Trance/Higherself Healing",
+        "content": "Trance Healing hat seinen Ursprung im englischen Spiritualismus und wurde 1848 durch die Geschwister Fox in den USA ins leben gerufen wurde. Bei dieser Form der Behandlung geht es darum, dass sich die Therapeutin/Medium in die innere Stille begibt und sich mit der geistigen Welt/Gott/spirituelle Intelligenz (oder wie man es nennen mag) verbindet, sich als Kanal zur Verfügung stellt, um einen seelischen und körperlichen Transformations-Prozess anzustoßen. Higher Self ist englisch und bedeutet das Höhere Selbst von einer Person. Es ist die Verbindung in uns mit der Göttlichkeit, Unendlichkeit mit der Verbindung mit unserem Urquelle. Alle sind daran angebunden, bewusst oder unbewusst. Das Higher Self Healing bietet Ihnen die Möglichkeit, die Hintergründe einer Erkrankung zu erfassen und bewusst daran zu Arbeiten ins Gesunde Leben zurückzukommen. Mit all ihren Möglichkeiten und positiven Geschehnissen.",
+        "link": {
+          "name": "http://www.emr.ch",
+          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+        }
       },
       {
         "name": "Reiki",
@@ -105,8 +85,8 @@
         }
       },
       {
-        "name": "Higherself Healing",
-        "content": "Higher Self ist englisch und bedeutet das Höhere Selbst von einer Person. Es ist die Verbindung in uns mit der Göttlichkeit, Unendlichkeit mit der Verbindung mit unserem Urquelle. Alle sind daran angebunden, bewusst oder unbewusst. Das Higher Self Healing bietet Ihnen die Möglichkeit, die Hintergründe einer Erkrankung zu erfassen und bewusst daran zu Arbeiten ins Gesunde Leben zurückzukommen. Mit all ihren Möglichkeiten und positiven Geschehnissen."
+        "name": "Transmutation",
+        "content": "Transmutation (lateinisch transmutatio: Verwandlung) ist die Umwandlung eines chemischen Elements in ein anderes. Die Alchemisten bezeichneten damit die angestrebte Verwandlung unedler Metalle in Gold. Durch die zahlreichen Ausbildungen im energetischen (Trance Healing, Higherself Healing, Reiki), alchemistischen, naturheilkundlichen Bereich, hat Simone Roth-Doggwiler eine eigene Technik entwickelt, die sich, wie oben geschrieben = unedle Metalle in Gold zu verwandeln definieren lässt. Was soviel bedeutet, dass Ihre innerste Kraft angeregt wird zum Leuchten zu kommen, damit Sie Ihr Leben selbstbestimmt & glücklich leben können."
       }
     ]
   },
@@ -127,18 +107,18 @@
     "items": [
       {
         "name": "Ausbildung",
-        "time": "2000-2010",
-        "content": "bla"
+        "time": "2006-2010",
+        "content": "Naturheilpraktikerin TEN Fachrichtung manuelle Therapien"
       },
       {
         "name": "Militärstrasse",
-        "time": "2010-2016",
-        "content": "bla"
+        "time": "2009-2016",
+        "content": "Eröffnung an der Militärstrasse 12 8004 Zürich"
       },
       {
         "name": "Weberstrasse",
         "time": "2016-now",
-        "content": "bla"
+        "content": "Umzug an die Weberstrasse 10 8004 Zürich"
       }
     ]
   },
