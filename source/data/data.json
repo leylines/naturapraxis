@@ -21,7 +21,7 @@
   "leitbild": {
     "name": "Kompetenzen",
     "subtitle": "Leitbild",
-    "content": "Simone Roth-Doggwiler liebt es Menschen zu begleiten, zu behandeln und sie in Ihrem Gesundheitsweg zu stärken. Zusammen wird ein Ziel (ressourcen- & lösungsorientiert) definiert und mit Hilfe der Naturheilkunde therapiert. Sei es mit manuell energetischen Körpertherapien, Gesprächen, Pflanzenheilkunde, Ernährung, Bewegung oder andere Methoden was Ihren Körper, Geist und Seele wieder in Einheit bringen. Simone Roth-Doggwiler freut sich, Sie ein Stück ihres Weges zu begleiten.",
+    "content": "Simone Roth-Doggwiler liebt es Menschen zu begleiten, zu behandeln und sie in Ihrem Gesundheitsweg zu stärken. Zusammen wird ein Ziel (ressourcen- & lösungsorientiert) definiert und mit Hilfe der Naturheilkunde therapiert. Sei es mit manuell energetischen Körpertherapien, Gesprächen, Pflanzenheilkunde, Ernährung, Bewegung oder andere Methoden welche Ihren Körper, Geist und Seele wieder in Einheit bringen. Simone Roth-Doggwiler freut sich, Sie ein Stück ihres Weges zu begleiten.",
     "kompetenzen": [
       {
         "name": "klassische Massage",
@@ -184,7 +184,31 @@
       }
     ]
   },
+  "testimonials": {
+    "name": "Testimonials",
+    "items": [
+      {
+        "author": "Claudia Graf",
+        "content": "Vielen herzlichen Dank für deine himmlischen Fussreflexzonenmassagen! Deine Fähigkeit das Heilsame für den Körper mit dem Genussvollen zu verbinden ist einmalig und absolut grossartig. Ich liebe deine feinfühlige energetische Arbeit, dein grosses Fachwissen und deine menschliche Kompetenz."
+      },
+      {
+        "author": "Anonym",
+        "content": "Deine Massagen übertreffen eine klassische Massage bei weitem. Meine Schmerzen und Verspannungen wurden deutlich weniger und besonders auf energetischer Ebene wirkte die Massage noch einige Tage nach."
+      },
+      {
+        "author": "Anonym",
+        "content": "Ich fühle mich bei Simone mit ihrer natürlichen und authentischen Art stets sehr wohl und ernstgenommen. Sie verfügt über ein breites und fundiertes Fachwissen in Naturheilpraktik wie auch in den Bereichen Spiritualität und Medialität." 
+      },
+      {
+        "author": "Tanja",
+        "content": "Es war eine ganz besondere und sehr intensive Erfahrung. Während dem Trance Healing war mein Empfinden deutlich gesteigert. Ich fühlte ganz klar die Präsenz der Geistigen Welt und die Heilenergie, die durch meinen Körper floss. Es war sehr entspannend, lichtvoll und man könnte sagen fast magisch. Im anschliessenden Gespräch nahm sie sich Zeit für meine offenen Fragen und half mir meine eigenen sensitiven und medialen Fähigkeiten besser zu verstehen und anzunehmen. Seit dem Trance Healing hat sich einiges in meinem Leben verändert. Viele Lernfelder wurden angestossen und insbesondere auf seelischer Ebene konnten viele alte Wunden heilen."
+      }
+    ]
+  },
   "contact": {
     "name": "Schreib mir"
+  },
+  "termin": {
+    "name": "Termin buchen"
   }
 }

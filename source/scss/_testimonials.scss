@@ -1,0 +1,21 @@
+#testimonials {
+  .carousel-item {
+    height: 50vh;
+    min-height: 250px;
+    .carousel-caption {
+      border-left: 50px;
+      margin: 0;
+      p:before {
+        content: "\f10d";
+        font-family: 'Fontawesome';
+        float: left;
+        margin-right: 10px;
+      }
+    }
+  }
+  @media (max-width: 576px) {
+    .carousel-item {
+      height: auto;
+    }
+  }
+}
