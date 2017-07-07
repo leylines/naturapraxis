@@ -4,24 +4,30 @@
     "items": [
       {
         "name": "Standort",
-        "content": "Die Praxis liegt zentral in Zürich an der Weberstrasse."
+        "content": "zentral im Kreis 4 an der Weberstrasse 10"
       },
       {
         "name": "Behandlung",
-        "content": "Aus meinem breitem Wissen, aus der Schul- / Alternativmedizin und naturheilkundlichen Bereichen ist es mir eine Freude Sie zu begleiten, damit Ihr Körper, Geist und Seele wieder harmonieren."
+        "content": "in jeder Sitzung wird auf Wunsch an Ihrem Körper behandelt"
       },
       {
         "name": "Beratung",
-        "content": "Es ist mir ein Anliegen, dass es ein miteinander Arbeiten an Ihrer Gesundheit ist, resourcen & lösungsorientiert."
+        "content": "Tipps aus der Naturheilkunde runden die Behandlung ab"
       }
     ]
   },
   "leitbild": {
     "name": "Kompetenzen",
-    "items": [
+    "subtitle": "Leitbild",
+    "content": "Simone Roth-Doggwiler liebt es Menschen zu begleiten, zu behandeln und sie in Ihrem Gesundheitsweg zu stärken. Zusammen wird ein Ziel (ressourcen- & lösungsorientiert) definiert und mit Hilfe der Naturheilkunde therapiert. Sei es mit manuell energetischen Körpertherapien, Gesprächen, Pflanzenheilkunde, Ernährung, Bewegung oder andere Methoden was Ihren Körper, Geist und Seele wieder in Einheit bringen. Simone Roth-Doggwiler freut sich, Sie ein Stück ihres Weges zu begleiten.",
+    "kompetenzen": [
       {
-        "name": "Leitbild",
-        "content": "Menschen zu begleiten, zu behandeln und sie in Ihrem Gesundheitsweg zu stärken. Zusammen wird ein Ziel definiert und mit Hilfe der Naturheilkunde therapiert. Sei es mit manuell energetischen Körpertherapien, Gesprächen, Pflanzenheilkunde, Ernährung, Bewegung oder andere Methoden was Ihren Körper, Geist und Seele wieder in Einheit bringen. Ich freue mich, Sie ein Stück ihres Weges zu begleiten"
+        "name": "Massage",
+        "value": "90"
+      },
+      {
+        "name": "Reiki",
+        "value": "60"
       }
     ]
   },
@@ -41,10 +47,6 @@
         "content": "Die Triggerpunkt Massage ist eine besondere Form der Massage. Die Schmerzpunkte, so genannte Triggerpunkte sind verhärtete Muskelfasern bei denen man davon ausgeht, dass eine Entzündung stattgefunden hat. Verletzungen oder akute chronische Überbeanspruchung, mechanische Reize und Fehlhaltungen führen zu diesem Geschehen. Durch diese Therapieform kann eine Linderung, Aktivierung der Selbstheilungskräfte angeregt werden."
       },
       {
-        "name": "Schröpfen",
-        "content": "Mittels Unterdruck wird ein Schröpfglas auf bestimmte Hautareale gesetzt. Die Behandlung kann am Ort der Erkrankung, Reflexzonen oder in den Dermatomen (Hautbezirke die über Nervenbahnen mit den inneren Organen verbunden sind) erfolgen. Das Ziel des Schröpfens ist die Selbstheilungskräfte des Organismus zu stärken oder wieder anzuregen. Diese Therapieform wird in der Naturapraxis kombiniert mit einer klassischen Massage oder anderen Körpertherapie angewendet."
-      },
-      {
         "name": "Fussreflexzonen Massage",
         "content": "Reflexzonentherapie ist eine komplementär-therapeutische Methode, welche die Selbstheilungskräfte des Menschen und seine Grundregulationssysteme stärkt und ausgleicht. Grundlage der Reflexzonentherapie ist die Vorstellung, dass sich der Körper in seiner Gesamtheit jeweils in einzelnen Körperteilen spiegelt. Reflexzonen finden sich an Füssen, Händen, Kopf, Ohren und am ganzen Körper. Die Behandlung der Reflexzonen am Fuss erfreut sich besonderer Beliebtheit, denn ihr wird eine ganzheitliche Wirkung nachgesagt.",
         "link": {
@@ -61,19 +63,11 @@
         }
       },
       {
-        "name": "Pflanzenheilkunde / Phytotherapie",
-        "content": "Die Pflanzenheilkunde (Phytotherapie) ist die Lehre der Verwendung von Heilpflanzen als Arzneimittel. In der Pflanzenheilkunde werden die geeigneten Pflanzen für ihre Gesundheit individuell zusammengestellt. Nach dem Prinzip der Ganzheit für ihr System, es werden selten nur einzelne Pflanzen verschrieben, da sie in einem Blumenstrauss ihre Wirkung besser entfalten können. Durch meine zusätzlichen Ausbildungen in Spagyrik, Homöopathie & Naturheilkunde empfehle ich zu einer Körpertherapie meistens einen Pflanzenblumenstrauss. Die Phytotherapie kombiniert mit der Naturheilkunde TEN distanziert sich eine natürliche Schulmedizin zu sein. Da immer die Körper, Seele & Geist miteinbezogen werden zur Gesunderhaltung des Menschen.",
+        "name": "Naturheilkunde TEN",
+        "content": "Die westliche Naturheilpraktik umfasst die traditionelle Volksheilkunde und die Erkenntnisse der modernen Komplementärmedizin. Die Naturheilpraktik baut auf der Erkenntnis auf, dass Körper, Geist und Seele eine Einheit bilden. Durch die Stärkung der Lebenskraft versucht die Naturheilpraktikerin die Widerstands- und Selbstheilungskräfte des Klienten mit ganzheitlichen und natürlichen Mitteln anzuregen und zu festigen. Bei der individuell zusammengestellten Therapie werden nicht nur körperliche Symptome berücksichtigt, sondern der Mensch als komplexes Wesen im Ganzen betrachtet und die Zusammenhänge Körper – Geist – Seele miteinbezogen. Für diese ganzheitliche Betrachtungsweise bedient sich die Therapeutin eines breiten Spektrums an Behandlungsmethoden: Ernährungsberatung, ausleitende Verfahren, Phytotherapie, Homöopathie , Spagyrik, Vitalstoffe sowie unterstützende Therapieformen aus der Manualtherapie.",
         "link": {
-          "name": "https://de.wikipedia.org",
-          "dest": "https://de.wikipedia.org/wiki/Pflanzenheilkunde"
-        }
-      },
-      {
-        "name": "Trance/Higherself Healing",
-        "content": "Trance Healing hat seinen Ursprung im englischen Spiritualismus und wurde 1848 durch die Geschwister Fox in den USA ins leben gerufen wurde. Bei dieser Form der Behandlung geht es darum, dass sich die Therapeutin/Medium in die innere Stille begibt und sich mit der geistigen Welt/Gott/spirituelle Intelligenz (oder wie man es nennen mag) verbindet, sich als Kanal zur Verfügung stellt, um einen seelischen und körperlichen Transformations-Prozess anzustoßen. Higher Self ist englisch und bedeutet das Höhere Selbst von einer Person. Es ist die Verbindung in uns mit der Göttlichkeit, Unendlichkeit mit der Verbindung mit unserem Urquelle. Alle sind daran angebunden, bewusst oder unbewusst. Das Higher Self Healing bietet Ihnen die Möglichkeit, die Hintergründe einer Erkrankung zu erfassen und bewusst daran zu Arbeiten ins Gesunde Leben zurückzukommen. Mit all ihren Möglichkeiten und positiven Geschehnissen.",
-        "link": {
-          "name": "http://www.emr.ch",
-          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+          "name": "www.nhk.ch",
+          "dest": "https://www.nhk.ch"
         }
       },
       {
@@ -85,8 +79,28 @@
         }
       },
       {
+        "name": "Trance Healing",
+        "content": "Trance Healing hat seinen Ursprung im englischen Spiritualismus und wurde 1848 durch die Geschwister Fox in den USA ins leben gerufen wurde. Bei dieser Form der Behandlung geht es darum, dass sich die Therapeutin/Medium in die innere Stille begibt und sich mit der geistigen Welt/Gott/spirituelle Intelligenz (oder wie man es nennen mag) verbindet, sich als Kanal zur Verfügung stellt, um einen seelischen und körperlichen Transformations-Prozess anzustoßen.",
+        "link": {
+          "name": "http://www.emr.ch",
+          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+        }
+      },
+      {
+        "name": "Higherself Healing",
+        "content": "Higher Self ist englisch und bedeutet das Höhere Selbst von einer Person. Es ist die Verbindung in uns mit der Göttlichkeit, Unendlichkeit mit der Verbindung mit unserem Urquelle. Alle sind daran angebunden, bewusst oder unbewusst. Das Higher Self Healing bietet Ihnen die Möglichkeit, die Hintergründe einer Erkrankung zu erfassen und bewusst daran zu Arbeiten ins Gesunde Leben zurückzukommen. Mit all ihren Möglichkeiten und positiven Geschehnissen.",
+        "link": {
+          "name": "http://www.emr.ch",
+          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+        }
+      },
+      {
         "name": "Transmutation",
-        "content": "Transmutation (lateinisch transmutatio: Verwandlung) ist die Umwandlung eines chemischen Elements in ein anderes. Die Alchemisten bezeichneten damit die angestrebte Verwandlung unedler Metalle in Gold. Durch die zahlreichen Ausbildungen im energetischen (Trance Healing, Higherself Healing, Reiki), alchemistischen, naturheilkundlichen Bereich, hat Simone Roth-Doggwiler eine eigene Technik entwickelt, die sich, wie oben geschrieben = unedle Metalle in Gold zu verwandeln definieren lässt. Was soviel bedeutet, dass Ihre innerste Kraft angeregt wird zum Leuchten zu kommen, damit Sie Ihr Leben selbstbestimmt & glücklich leben können."
+        "content": "Transmutation (lateinisch transmutatio: Verwandlung) ist die Umwandlung eines chemischen Elements in ein anderes. Die Alchemisten bezeichneten damit die angestrebte Verwandlung unedler Metalle in Gold. Durch die zahlreichen Ausbildungen im energetischen (Trance Healing, Higherself Healing, Reiki), alchemistischen, naturheilkundlichen Bereich, hat Simone Roth-Doggwiler eine eigene Technik entwickelt, die sich, wie oben geschrieben = unedle Metalle in Gold zu verwandeln definieren lässt. Was soviel bedeutet, dass Ihre innerste Kraft angeregt wird zum Leuchten zu kommen, damit Sie Ihr Leben selbstbestimmt & glücklich leben können.",
+        "link": {
+          "name": "http://www.emr.ch",
+          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+        }
       }
     ]
   },
@@ -103,22 +117,52 @@
     ]
   },
   "timeline": {
-    "name": "Geschichte",
+    "name": "Wichtigstes",
     "items": [
       {
         "name": "Ausbildung",
         "time": "2006-2010",
-        "content": "Naturheilpraktikerin TEN Fachrichtung manuelle Therapien"
+        "content": "Naturheilpraktikerin TEN Fachrichtung manuelle Therapien an der NHK Zürich"
+      },
+      { 
+        "name": "Ausbildung",
+        "time": "2007",
+        "content": "Reikimeister bei Pia Kumar"
+      },
+      { 
+        "name": "Ausbildung",
+        "time": "2010-2012",
+        "content": "Bioenergetikerin bei Violette Wörler"
       },
       {
-        "name": "Militärstrasse",
+        "name": "Naturapraxis",
         "time": "2009-2016",
         "content": "Eröffnung an der Militärstrasse 12 8004 Zürich"
       },
       {
-        "name": "Weberstrasse",
-        "time": "2016-now",
+        "name": "Naturapraxis",
+        "time": "2016-jetzt",
         "content": "Umzug an die Weberstrasse 10 8004 Zürich"
+      },
+      {
+        "name": "Persönliches",
+        "time": "1979",
+        "content": "Geboren in Nidwalden"
+      },
+      {
+        "name": "Persönliches",
+        "time": "2000",
+        "content": "Auszug nach Zürich :-)"
+      },
+      {
+        "name": "Persönliches",
+        "time": "2011",
+        "content": "Heirat mit Jörg Roth"
+      },
+      {
+        "name": "Persönliches",
+        "time": "2012",
+        "content": "Geburt einer gesunden Tochter"
       }
     ]
   },
