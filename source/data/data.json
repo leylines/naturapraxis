@@ -24,8 +24,24 @@
     "content": "Simone Roth-Doggwiler liebt es Menschen zu begleiten, zu behandeln und sie in Ihrem Gesundheitsweg zu stärken. Zusammen wird ein Ziel (ressourcen- & lösungsorientiert) definiert und mit Hilfe der Naturheilkunde therapiert. Sei es mit manuell energetischen Körpertherapien, Gesprächen, Pflanzenheilkunde, Ernährung, Bewegung oder andere Methoden was Ihren Körper, Geist und Seele wieder in Einheit bringen. Simone Roth-Doggwiler freut sich, Sie ein Stück ihres Weges zu begleiten.",
     "kompetenzen": [
       {
-        "name": "Massage",
+        "name": "klassische Massage",
         "value": "90"
+      },
+      {
+        "name": "Triggerpunktmassage",
+        "value": "90"
+      },
+      {
+        "name": "Fussreflexzonenmassage",
+        "value": "70"
+      },
+      {
+        "name": "manuelle Lymphdrainage",
+        "value": "60"
+      },
+      {
+        "name": "Naturheilkunde TEN",
+        "value": "75"
       },
       {
         "name": "Reiki",
