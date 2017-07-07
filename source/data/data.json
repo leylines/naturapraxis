@@ -25,19 +25,19 @@
     "kompetenzen": [
       {
         "name": "klassische Massage",
-        "value": "90"
+        "value": "95"
       },
       {
         "name": "Triggerpunktmassage",
-        "value": "90"
+        "value": "95"
       },
       {
         "name": "Fussreflexzonenmassage",
-        "value": "70"
+        "value": "80"
       },
       {
         "name": "manuelle Lymphdrainage",
-        "value": "60"
+        "value": "75"
       },
       {
         "name": "Naturheilkunde TEN",
@@ -45,7 +45,19 @@
       },
       {
         "name": "Reiki",
-        "value": "60"
+        "value": "70"
+      },
+      {
+        "name": "Trance Healing",
+        "value": "70"
+      },
+      {
+        "name": "Higher Self Healing",
+        "value": "70"
+      },
+      {
+        "name": "Trance Mutations Healing",
+        "value": "85"
       }
     ]
   },
@@ -82,7 +94,7 @@
       },
       {
         "name": "Naturheilkunde TEN",
-        "content": "Die westliche Naturheilpraktik umfasst die traditionelle Volksheilkunde und die Erkenntnisse der modernen Komplementärmedizin. Die Naturheilpraktik baut auf der Erkenntnis auf, dass Körper, Geist und Seele eine Einheit bilden. Durch die Stärkung der Lebenskraft versucht die Naturheilpraktikerin die Widerstands- und Selbstheilungskräfte des Klienten mit ganzheitlichen und natürlichen Mitteln anzuregen und zu festigen. Bei der individuell zusammengestellten Therapie werden nicht nur körperliche Symptome berücksichtigt, sondern der Mensch als komplexes Wesen im Ganzen betrachtet und die Zusammenhänge Körper – Geist – Seele miteinbezogen. Für diese ganzheitliche Betrachtungsweise bedient sich die Therapeutin eines breiten Spektrums an Behandlungsmethoden: Ernährungsberatung, ausleitende Verfahren, Phytotherapie, Homöopathie , Spagyrik, Vitalstoffe sowie unterstützende Therapieformen aus der Manualtherapie.",
+        "content": "Die Naturheilpraktik baut auf der Erkenntnis auf, dass Körper, Geist und Seele eine Einheit bilden. Durch die Stärkung der Lebenskraft versucht die Naturheilpraktikerin die Widerstands- und Selbstheilungskräfte des Klienten mit ganzheitlichen und natürlichen Mitteln anzuregen und zu festigen. Für diese ganzheitliche Betrachtungsweise bedient man sich eines breiten Spektrums an Behandlungsmethoden: Ernährungsberatung, ausleitende Verfahren, Phytotherapie, Homöopathie , Spagyrik, Vitalstoffe sowie unterstützende Therapieformen.",
         "link": {
           "name": "www.nhk.ch",
           "dest": "https://www.nhk.ch"
@@ -100,24 +112,24 @@
         "name": "Trance Healing",
         "content": "Trance Healing hat seinen Ursprung im englischen Spiritualismus und wurde 1848 durch die Geschwister Fox in den USA ins leben gerufen wurde. Bei dieser Form der Behandlung geht es darum, dass sich die Therapeutin/Medium in die innere Stille begibt und sich mit der geistigen Welt/Gott/spirituelle Intelligenz (oder wie man es nennen mag) verbindet, sich als Kanal zur Verfügung stellt, um einen seelischen und körperlichen Transformations-Prozess anzustoßen.",
         "link": {
-          "name": "http://www.emr.ch",
-          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+          "name": "Trance & Higher Self Healing",
+          "dest": "https://trancehealing.jimdo.com"
         }
       },
       {
         "name": "Higherself Healing",
         "content": "Higher Self ist englisch und bedeutet das Höhere Selbst von einer Person. Es ist die Verbindung in uns mit der Göttlichkeit, Unendlichkeit mit der Verbindung mit unserem Urquelle. Alle sind daran angebunden, bewusst oder unbewusst. Das Higher Self Healing bietet Ihnen die Möglichkeit, die Hintergründe einer Erkrankung zu erfassen und bewusst daran zu Arbeiten ins Gesunde Leben zurückzukommen. Mit all ihren Möglichkeiten und positiven Geschehnissen.",
         "link": {
-          "name": "http://www.emr.ch",
-          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+          "name": "Trance & Higher Self Healing",
+          "dest": "https://trancehealing.jimdo.com"
         }
       },
       {
         "name": "Transmutation",
-        "content": "Transmutation (lateinisch transmutatio: Verwandlung) ist die Umwandlung eines chemischen Elements in ein anderes. Die Alchemisten bezeichneten damit die angestrebte Verwandlung unedler Metalle in Gold. Durch die zahlreichen Ausbildungen im energetischen (Trance Healing, Higherself Healing, Reiki), alchemistischen, naturheilkundlichen Bereich, hat Simone Roth-Doggwiler eine eigene Technik entwickelt, die sich, wie oben geschrieben = unedle Metalle in Gold zu verwandeln definieren lässt. Was soviel bedeutet, dass Ihre innerste Kraft angeregt wird zum Leuchten zu kommen, damit Sie Ihr Leben selbstbestimmt & glücklich leben können.",
+        "content": "Transmutation (lateinisch transmutatio: Verwandlung) ist die Umwandlung eines chemischen Elements in ein anderes. Durch die zahlreichen Ausbildungen im energetischen (Trance Healing, Higherself Healing, Reiki), alchemistischen, naturheilkundlichen Bereich, hat Simone Roth-Doggwiler eine eigene Technik entwickelt, die sich, wie oben geschrieben = unedle Metalle in Gold zu verwandeln definieren lässt. Was soviel bedeutet, dass Ihre innerste Kraft angeregt wird zum Leuchten zu kommen, damit Sie Ihr Leben selbstbestimmt & glücklich leben können.",
         "link": {
-          "name": "http://www.emr.ch",
-          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+          "name": "Trance & Higher Self Healing",
+          "dest": "https://trancehealing.jimdo.com"
         }
       }
     ]
