@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /source
-Sitemap: https://www.naturapraxis.ch/sitemap.xml
-Host: https://www.naturapraxis.ch
+Sitemap: http://www.naturapraxis.ch/sitemap.xml
+Host: www.naturapraxis.ch
