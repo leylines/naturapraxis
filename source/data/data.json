@@ -69,7 +69,7 @@
         "content": "Unter dem Begriff „Massage“ versteht man eine mechanische, meist manuelle, Beeinflussung der Haut, des tieferliegenden Gewebes und der Muskulatur. Die klassische Massage ist die am häufigsten angewendete Form der Massage und wird überwiegend zur Vorbeugung und Behandlung von Erkrankungen des Bewegungsapparats eingesetzt.",
         "link": {
           "name": "www.emr.ch",
-          "dest": "http://www.emr.ch/emr-public/methode.las?c=102"
+          "dest": "https://www.emr.ch/emr-public/methode.las?c=102"
         }
       },
       {
@@ -104,15 +104,15 @@
         "name": "Reiki",
         "content": "Reiki wird „ree-ki“ ausgesprochen (Japanisch „rei“ = unerschöpfliche Energie des Universums, „ki“ = persönliche Lebensenergie) und ist eine japanische Form der energetischen Heilung durch Handauflegen. Der Reikimeister oder -lehrer überträgt dabei die universelle Lebensenergie – die ebenfalls Reiki heisst – durch Berührung auf den Patienten.",
         "link": {
-          "name": "https://www.emr.ch",
-          "dest": "http://www.emr.ch/emr-public/methode.las?c=164"
+          "name": "www.emr.ch",
+          "dest": "https://www.emr.ch/emr-public/methode.las?c=164"
         }
       },
       {
         "name": "Trance Healing",
         "content": "Trance Healing hat seinen Ursprung im englischen Spiritualismus und wurde 1848 durch die Geschwister Fox in den USA ins leben gerufen wurde. Bei dieser Form der Behandlung geht es darum, dass sich die Therapeutin/Medium in die innere Stille begibt und sich mit der geistigen Welt/Gott/spirituelle Intelligenz (oder wie man es nennen mag) verbindet, sich als Kanal zur Verfügung stellt, um einen seelischen und körperlichen Transformations-Prozess anzustoßen.",
         "link": {
-          "name": "Trance & Higher Self Healing",
+          "name": "Trance Healing",
           "dest": "https://trancehealing.jimdo.com"
         }
       },
@@ -120,7 +120,7 @@
         "name": "Higherself Healing",
         "content": "Higher Self ist englisch und bedeutet das Höhere Selbst von einer Person. Es ist die Verbindung in uns mit der Göttlichkeit, Unendlichkeit mit der Verbindung mit unserem Urquelle. Alle sind daran angebunden, bewusst oder unbewusst. Das Higher Self Healing bietet Ihnen die Möglichkeit, die Hintergründe einer Erkrankung zu erfassen und bewusst daran zu Arbeiten ins Gesunde Leben zurückzukommen. Mit all ihren Möglichkeiten und positiven Geschehnissen.",
         "link": {
-          "name": "Trance & Higher Self Healing",
+          "name": "Higher Self Healing",
           "dest": "https://trancehealing.jimdo.com"
         }
       },

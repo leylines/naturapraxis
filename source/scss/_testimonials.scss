@@ -13,9 +13,21 @@
       }
     }
   }
-  @media (max-width: 576px) {
+}
+
+@media(max-width:767px) {
+  #testimonials {
     .carousel-item {
-      height: auto;
+      height: 400px;
     }
   }
 }
+
+@media(max-width:575px) {
+  #testimonials {
+    .carousel-item {
+      height: 550px;
+    }
+  }
+}
+
