@@ -1,8 +1,9 @@
 #testimonials {
   .carousel-item {
-    height: 50vh;
-    min-height: 250px;
+    height: 250px;
     .carousel-caption {
+      top: 0;
+      bottom: auto;
       border-left: 50px;
       margin: 0;
       p:before {
@@ -15,10 +16,18 @@
   }
 }
 
+@media(max-width:991px) {
+  #testimonials {
+    .carousel-item {
+      height: 300px;
+    }
+  }
+}
+
 @media(max-width:767px) {
   #testimonials {
     .carousel-item {
-      height: 400px;
+      height: 360px;
     }
   }
 }
@@ -26,7 +35,7 @@
 @media(max-width:575px) {
   #testimonials {
     .carousel-item {
-      height: 550px;
+      height: 430px;
     }
   }
 }
