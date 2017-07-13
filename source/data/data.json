@@ -152,17 +152,29 @@
       {
         "name": "Ausbildung",
         "time": "2006-2010",
-        "content": "Naturheilpraktikerin TEN Fachrichtung manuelle Therapien an der NHK Zürich"
+        "content": "Naturheilpraktikerin TEN Fachrichtung manuelle Therapien an der NHK Zürich",
+        "link": {
+          "name": "www.nhk.ch",
+          "dest": "https://www.nhk.ch/"
+        }
       },
       { 
         "name": "Ausbildung",
         "time": "2007",
-        "content": "Reikimeister bei Pia Kumar"
+        "content": "Reikimeister bei Pia Kumar",
+        "link": {
+          "name": "Pia Kumar",
+          "dest": "http://www.reiki-5-tibeter.ch/"
+        }
       },
       { 
         "name": "Ausbildung",
         "time": "2010-2012",
-        "content": "Bioenergetikerin bei Violette Wörler"
+        "content": "Bioenergetikerin bei Violette Wörler",
+        "link": {
+          "name": "Therapiezentrum Wörler",
+          "dest": "http://www.bioenergetiker.net/"
+        }
       },
       {
         "name": "Naturapraxis",

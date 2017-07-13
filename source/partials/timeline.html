@@ -24,7 +24,12 @@
                     <h4 class="subheading">{{this.name}}</h4>
                   </div>
                   <div class="timeline-body">
-                    <p>{{this.content}}</p>
+                    <p>
+                      {{this.content}}
+                      {{#with this.link}}
+                      <br/><a href="{{dest}}">{{name}}</a>
+                      {{/with}}
+                    </p>
                   </div>
                 </div>
               </li>
