@@ -21,7 +21,7 @@
   "leitbild": {
     "name": "Kompetenzen",
     "subtitle": "Leitbild",
-    "content": "Simone Roth-Doggwiler liebt es Menschen zu begleiten, zu behandeln und sie in Ihrem Gesundheitsweg zu stärken. Zusammen wird ein Ziel (ressourcen- & lösungsorientiert) definiert und mit Hilfe der Naturheilkunde therapiert. Sei es mit manuell energetischen Körpertherapien, Gesprächen, Pflanzenheilkunde, Ernährung, Bewegung oder andere Methoden welche Ihren Körper, Geist und Seele wieder in Einheit bringen. Simone Roth-Doggwiler freut sich, Sie ein Stück ihres Weges zu begleiten.",
+    "content": "Ich liebe es Menschen zu begleiten, zu behandeln und sie in Ihrem Gesundheitsweg zu stärken. Zusammen wird ein Ziel (ressourcen- & lösungsorientiert) definiert und mit Hilfe der Naturheilkunde therapiert. Sei es mit manuell energetischen Körpertherapien, Gesprächen, Pflanzenheilkunde, Ernährung, Bewegung oder andere Methoden welche Ihren Körper, Geist und Seele wieder in Einheit bringen. Ich freue mich, Sie ein Stück ihres Weges zu begleiten.",
     "kompetenzen": [
       {
         "name": "klassische Massage",
@@ -102,7 +102,7 @@
       },
       {
         "name": "Reiki",
-        "content": "Reiki wird „ree-ki“ ausgesprochen (Japanisch „rei“ = unerschöpfliche Energie des Universums, „ki“ = persönliche Lebensenergie) und ist eine japanische Form der energetischen Heilung durch Handauflegen. Der Reikimeister oder -lehrer überträgt dabei die universelle Lebensenergie – die ebenfalls Reiki heisst – durch Berührung auf den Patienten.",
+        "content": "Reiki wird „ree-ki“ ausgesprochen (Japanisch „rei“ = unerschöpfliche Energie des Universums, „ki“ = persönliche Lebensenergie) und ist eine japanische Form der energetischen Heilung durch Handauflegen. Der Reikimeister oder -lehrer überträgt dabei die universelle Lebensenergie – die ebenfalls Reiki heisst – durch Berührung auf den Klienten.",
         "link": {
           "name": "www.emr.ch",
           "dest": "https://www.emr.ch/emr-public/methode.las?c=164"
@@ -136,8 +136,8 @@
   },
   "team": {
     "name": "Über mich",
-    "titel": "Sie arbeitet und lebt mit ihrer Familie in der Stadt Zürich. In Ihrer Freizeit liebt Simone Zeit in ihrem Garten zu verbringen & die Natur in all ihren Facetten zu beobachten.",
-    "content": "Ich suchte immer nach dem grösseren Sinn vom Ganzen und hinterfragte alles. Mein Ziel: resourcenorientiert am Körper/Geist & Seele der Leute zu arbeiten. Ich liebe es, den Menschen ihr Bestes zu geben, damit Sie ihren Weg selbstbestimmt gehen können.",
+    "titel": "Ich arbeite und lebe mit meiner Familie in der Stadt Zürich. In meiner Freizeit liebe ich Zeit in meinem Garten zu verbringen und die Natur in all ihren Facetten zu beobachten.",
+    "content": "Ich suchte immer nach dem grösseren Sinn vom Ganzen und hinterfragte alles. Mein Ziel ist es resourcenorientiert an Körper, Geist und Seele der Leute zu arbeiten. Ich liebe es, den Menschen ihr Bestes zu geben, damit Sie ihren Weg selbstbestimmt gehen können.",
     "items": [
       {
         "name": "Simone Roth-Doggwiler",
