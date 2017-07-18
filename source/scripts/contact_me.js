@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/simone@naturapraxis.ch",
+                url: "https://formspree.io/info@leylines.ch",
                 type: "POST",
                 data: {
                     name: name,
